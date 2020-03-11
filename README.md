@@ -15,6 +15,7 @@ containers running on the host.
 
 This utility is incrementally developed, adding functions when
 required.
+Pull requests and feature suggestions welcome.
 
 ## Usage
 
